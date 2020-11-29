@@ -3,10 +3,9 @@
 <h2> 💻 À propos de moi </h2>
 
 - 🎓 Je suis étudiant.
-- 🌐 Je souhaite devenir développeur web ou fullstack.
+- 🌐 discord.gg/sdfivem
 - 🏴 J'habite en France.
-- ⛏️ Je travaille pour GreedIsland (FiveM Server).
-- 🔨 Je travaille pour Nexus-Games.
+- ⛏️ Je dev pour le projet sdFramework & Sunside(FiveM Server).
 
 <h3> 💻🛠️ Je suis étudiant développeur </h3>
 
@@ -23,7 +22,7 @@
 
 <br/>
 
-[![Akashi's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssAkashi)
+[![Akashi's Github Stats](https://github-readme-stats.vercel.app/api?username=Dz776&show_icons=true)](https://github.com/DZ776)
 
 <h3> 📱 Connectez-vous avec moi </h3>
 
