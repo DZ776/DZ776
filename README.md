@@ -5,7 +5,7 @@
 - 🎓 Je suis étudiant.
 - 🌐 discord.gg/sdfivem
 - 🏴 J'habite en France.
-- ⛏️ Je dev pour le projet sdFramework & Sunside(FiveM Server).
+- ⛏️ Je dev pour le projet sdFramework & Sunside (FiveM Server).
 
 <h3> 💻🛠️ Je suis étudiant développeur </h3>
 
