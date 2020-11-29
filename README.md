@@ -27,7 +27,7 @@
 <h3> 📱 Connectez-vous avec moi </h3>
 
 <p align="center">
-  <a href="https://twitter.com/AyDz776"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Dz7763b-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://twitter.com/AyDz776"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Dz7763-blue?style=flat-square&logo=twitter"></a>
     <a href="https://discord.com/users/756566102011674806"><img alt="Discord" src="https://img.shields.io/badge/Discord-Dz776-blue?style=flat-square&logo=discord"></a> <br>
   
   <h4> Bye 😁👋 </h4>
