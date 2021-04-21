@@ -19,6 +19,7 @@
 - 🌐 LineServ (French Hebergeur).
 - 🖥️ sdFramework (private framework on FiveM).
 - ⚜️ SDProtect (bot on discord.js).
+- 🌠 AyExec (Genrator compte)
 
 <br/>
 
