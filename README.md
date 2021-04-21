@@ -3,7 +3,7 @@
 <h2> 💻 À propos de moi </h2>
 
 - 🎓 Je suis étudiant.
-- 🌐 discord.gg/sdfivem
+- 🌐 discord.gg/XjnK652KfS
 - 🏴 J'habite en France.
 - ⛏️ Je dev pour le projet sdFramework & Sunside (FiveM Server).
 
