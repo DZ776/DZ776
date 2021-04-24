@@ -1,4 +1,4 @@
-### Hi Everyone, I'm Dz776 👋
+### Hi Everyone, I'm Denizz 👋
 
 <h2> 💻 À propos de moi </h2>
 
